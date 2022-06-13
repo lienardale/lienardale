@@ -8,19 +8,19 @@
     </div>
 </div>
 <p>
-<article class="markdown-body entry-content container-lg f5" itemprop="text">
+<article class="markdown-body entry-content container-lg f5" itemprop="text" align="center">
 <h1 align="center" dir="auto">Hi 👋, I'm Alexandre Lienard</h1>
 <h3 align="center" dir="auto">A passionate junior developer from France</h3>
 
 <p align="center" dir="auto"> <img src="https://komarev.com/ghpvc/?username=lienardale&label=Profile%20views&color=0e75b6&style=flat" alt="lienardale" /> </p>
 
-- 🔭 I’m currently looking for **an internship / permanent position**
+🔭 I’m currently looking for **an internship / permanent position**
 
-- 🌱 I’m eager to learn about **good practices and projects pipelines**
+🌱 I’m eager to learn about **good practices and projects pipelines**
 
-- 👯 I’m looking for a team **that will help me grow**
+👯 I’m looking for a team **that will help me grow**
 
-- 📫 How to reach me **alienard.dev@gmail.com**
+📫 How to reach me **alienard.dev@gmail.com**
 
 <h3 align="center" dir="auto">Connect with me:</h3>
 <p align="center" dir="auto">
@@ -28,7 +28,7 @@
         <img align="center" dir="auto" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alienard" height="30" width="40" />
     </a>
 </p>
-
+<br></br>
 <h3 align="center" dir="auto">Languages and Tools:</h3>
 <p align="center" dir="auto"> 
     <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
@@ -86,6 +86,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
     </a> 
 </p>
+<br></br>
 <div align="center">
 <p>
     <img align="center" dir="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=lienardale&" alt="lienardale" />
