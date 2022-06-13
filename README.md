@@ -2,11 +2,6 @@
 <div class="position-relative">
 <div class="Box mt-4">
 <div class="Box-body p-4">
-<div class="d-flex flex-justify-between">
-    <div class="text-mono text-small mb-3">
-    <a href="/Lienardale/lienardale" class="no-underline Link--primary">Lienardale</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
-    </div>
-</div>
 <p>
 <article class="markdown-body entry-content container-lg f5" itemprop="text" align="center">
 <h1 align="center" dir="auto">Hi 👋, I'm Alexandre Lienard</h1>
