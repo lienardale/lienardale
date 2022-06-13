@@ -1,4 +1,4 @@
-<div>
+<div align="center">
 <div class="position-relative">
 <div class="Box mt-4">
 <div class="Box-body p-4">
@@ -12,7 +12,9 @@
 <h1 align="center" dir="auto">Hi 👋, I'm Alexandre Lienard</h1>
 <h3 align="center" dir="auto">A passionate junior developer from France</h3>
 
-<p align="center" dir="auto"> <img src="https://komarev.com/ghpvc/?username=lienardale&label=Profile%20views&color=0e75b6&style=flat" alt="lienardale" /> </p>
+<p align="center" dir="auto"> 
+    <img src="https://komarev.com/ghpvc/?username=lienardale&label=Profile%20views&color=0e75b6&style=flat" alt="lienardale" /> 
+</p>
 
 🔭 I’m currently looking for **an internship / permanent position**
 
