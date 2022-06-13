@@ -95,10 +95,14 @@
     </a>
 </p>
 <p>
+    <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4cq9w7c004409k3asnbj82v/stats?cursusId=21&coalitionId=45" alt="alienard's 42 stats" /></a>
+</p>
+<p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" dir="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lienardale&langs_count=8&layout=compact" />
     </a>
 </p>
+
 <!-- <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" dir="auto" src="https://github-readme-stats.vercel.app/api/pin/?username=lienardale&repo=minishell" />
