@@ -19,6 +19,10 @@
 
 📫 How to reach me **alienard.dev@gmail.com**
 
+💻 [**My website**](https://alienard.fr)
+
+📄 [**Online resume**](https://lienardale.github.io/markdown-cv/) 
+
 <h3 align="center" dir="auto">Connect with me:</h3>
 <p align="center" dir="auto">
     <a href="https://linkedin.com/in/alienard" target="blank">
