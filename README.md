@@ -11,9 +11,7 @@
     <img src="https://komarev.com/ghpvc/?username=lienardale&label=Profile%20views&color=0e75b6&style=flat" alt="lienardale" /> 
 </p>
 
-🌱 I’m eager to learn about **good practices and projects pipelines**
-
-👯 I’m looking for a team **that will help me grow**
+🌱 I’m always eager to learn about **good practices, automation pipelines and exciting projects**
 
 📫 How to reach me **alienard.dev@gmail.com**
 
