@@ -69,12 +69,12 @@
 <h2>GitHub Stats</h2>
 
 <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lienardale&" alt="lienardale" />
+    <img src="https://streak-stats.demolab.com/?user=lienardale" alt="lienardale" />
 </p>
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=lienardale&count_private=true&show_icons=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=lienardale&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
     </a>
 </p>
 
@@ -85,8 +85,8 @@
 </p>
 
 <p>
-    <a href="https://github.com/JaeSeoKim/badge42">
-        <img src="https://badge42.vercel.app/api/v2/cl4cq9w7c004409k3asnbj82v/stats?cursusId=21&coalitionId=45" alt="alienard's 42 stats" />
+    <a href="https://github.com/oakoudad/badge42">
+        <img src="https://badge.mediaplus.ma/kettlebells/alienard?1337Badge=off&UM6P=off" alt="alienard's 42 stats" />
     </a>
 </p>
 
