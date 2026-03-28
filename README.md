@@ -74,12 +74,6 @@
 
 <p>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=lienardale&include_all_commits=true&show_icons=true" alt="GitHub Stats" />
-    </a>
-</p>
-
-<p>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lienardale&langs_count=8&layout=compact" alt="Top Languages" />
     </a>
 </p>
